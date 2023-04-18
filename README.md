@@ -37,7 +37,7 @@ EdsonJSF1990@gmail.com
 ![My Cloud](https://skillicons.dev/icons?i=firebase,netlify,heroku)
 ![false](https://skillicons.dev/icons?i=false)
 ![My Databases](https://skillicons.dev/icons?i=mysql,mongodb)
-![false](https://skillicons.dev/icons?i=false)
+
 ![My Commands Tools](https://skillicons.dev/icons?i=docker,powershell,bash)
 ![false](https://skillicons.dev/icons?i=false)
 ![My Desktop Tools](https://skillicons.dev/icons?i=vscode,postman)
