@@ -8,11 +8,14 @@ Si estas interesado en contactar conmigo me haría muy feliz recibir un correo e
 
 EdsonJSF1990@gmail.com
 
+## Lenguajes
+
 ![My Langage, html](https://skillicons.dev/icons?i=js,ts,py,php,sass,html,css)
 
-## GitHub Stats & Most Used Languages
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=EdsonJSF&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+<!-- ## GitHub Stats & Most Used Languages -->
+<!-- https://tiny.one/readme-stats -->
+<!-- Please add an env variable called PAT_1 with your github token in vercel -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=EdsonJSF&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866) -->
 
 ## Frameworks Frontend
 
