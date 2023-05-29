@@ -1,12 +1,11 @@
 # Edson Sánchez
 
-Fullstack developer con +2 años de experiencia en proyectos webs, me destaco usando JavaScript pero también manejo lenguajes como SQL, Python y PHP. Puedo seguir objetivos, dar instrucciones, entregar resultados de calidad y encontrar soluciones.
+Fullstack developer con +3 años de experiencia en proyectos de software, me destaco usando Angular y he trabajado en proyectos con inteligencia artificial con OpenAI, Dall-e y Stable Diffusion. También se usar Ionic, React, Django, Flask, Node, Laravel, Git, Wordpress, Bootstrap, Tailwind, JavaScript, TypeScript, SASS, HTML y CSS. 
 
-Me motiva mejorar mis habilidades y encontrar nuevos retos y quiero dar lo mejor de mi a través del código. Poseo experiencia en el área de tecnológica y tengo total confianza en mi capacidad para dar soluciones.
+Soy una persona que le gusta aprender, considero que tengo buenos skills en tema de enseñar y liderar equipos y brindar soluciones de manera rápida y eficaz quiero dar lo mejor de mi a través del código y tengo total confianza en mis habilidades.
 
 Si estas interesado en contactar conmigo me haría muy feliz recibir un correo electrónico tuyo a:
-
-EdsonJSF1990@gmail.com
+edsonjsf1990@gmail.com
 
 ## Lenguajes
 
