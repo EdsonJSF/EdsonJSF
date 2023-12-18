@@ -1,6 +1,6 @@
 # Edson Sánchez
 
-Fullstack developer con +3 años de experiencia en proyectos de software, me destaco usando Angular y he trabajado en proyectos con inteligencia artificial con OpenAI, Dall-e y Stable Diffusion. También se usar Ionic, React, Django, Flask, Node, Laravel, Git, Wordpress, Bootstrap, Tailwind, JavaScript, TypeScript, SASS, HTML y CSS. 
+Fullstack developer con experiencia en proyectos de software, me destaco usando Angular y he trabajado en proyectos con inteligencia artificial con OpenAI, Dall-e y Stable Diffusion. También se usar Ionic, React, Django, Flask, Node, Laravel, Git, Wordpress, Bootstrap, Tailwind, JavaScript, TypeScript, SASS, HTML y CSS. 
 
 Soy una persona que le gusta aprender, considero que tengo buenos skills en tema de enseñar y liderar equipos y brindar soluciones de manera rápida y eficaz quiero dar lo mejor de mi a través del código y tengo total confianza en mis habilidades.
 
@@ -47,6 +47,6 @@ edsonjsf1990@gmail.com
 ![false](https://skillicons.dev/icons?i=false)
 ![My Desing Tools](https://skillicons.dev/icons?i=figma,wordpress)
 
-## Gráfica de contribuciones
+<!-- ## Gráfica de contribuciones -->
 
-![EdsonJSF's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=EdsonJSF&bg_color=1F222E&title_color=F85D7F&color=F8D866&line=5bcdec&point=fff&hide_border=true)
+<!-- ![EdsonJSF's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=EdsonJSF&bg_color=1F222E&title_color=F85D7F&color=F8D866&line=5bcdec&point=fff&hide_border=true) -->
