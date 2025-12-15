@@ -1,9 +1,6 @@
 # Edson Sánchez
 
-I am Edson Sánchez, a Full Stack Developer with an extensive track record. I've successfully tackled challenging projects, such as​
-i​ntegrating a real-time KPI system for an airport, designing a scalable and adaptable returns system for over 2,000 companies with diverse​
-​business models, and I have also been involved in various AI-powered applications. My passion for programming constantly drives me, and my​
-​commitment motivates me towards team success, delivering agile and effective solutions.​
+I am Edson Sánchez, a Full Stack Developer with an extensive track record. I've successfully tackled challenging projects, such as​ i​ntegrating a real-time KPI system for an airport, designing a scalable and adaptable returns system for over 2,000 companies with diverse​ ​business models, and I have also been involved in various AI-powered applications. My passion for programming constantly drives me, and my​ commitment motivates me towards team success, delivering agile and effective solutions.​
 
 If you are interested in contacting me, I would be very happy to receive an email from you.
 
