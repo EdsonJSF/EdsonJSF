@@ -1,22 +1,24 @@
 # Edson Sánchez
 
-Fullstack developer con experiencia en proyectos de software, me destaco usando Angular y he trabajado en proyectos con inteligencia artificial con OpenAI, Dall-e y Stable Diffusion. También se usar Ionic, React, Django, Flask, Node, Laravel, Git, Wordpress, Bootstrap, Tailwind, JavaScript, TypeScript, SASS, HTML y CSS. 
+I am Edson Sánchez, a Full Stack Developer with an extensive track record. I've successfully tackled challenging projects, such as​
+i​ntegrating a real-time KPI system for an airport, designing a scalable and adaptable returns system for over 2,000 companies with diverse​
+​business models, and I have also been involved in various AI-powered applications. My passion for programming constantly drives me, and my​
+​commitment motivates me towards team success, delivering agile and effective solutions.​
 
-Soy una persona que le gusta aprender, considero que tengo buenos skills en tema de enseñar y liderar equipos y brindar soluciones de manera rápida y eficaz quiero dar lo mejor de mi a través del código y tengo total confianza en mis habilidades.
+If you are interested in contacting me, I would be very happy to receive an email from you.
 
-Si estas interesado en contactar conmigo me haría muy feliz recibir un correo electrónico tuyo a:
-edsonjsf1990@gmail.com
+Visit my portfolio: [edsonjsf.github.io​](https://edsonjsf.github.io)
 
-## Lenguajes
+## Languages
 
-![My Langage, html](https://skillicons.dev/icons?i=js,ts,py,php,sass,html,css)
+![My Langages](https://skillicons.dev/icons?i=js,ts,py,php,sass,html,css)
 
 <!-- ## GitHub Stats & Most Used Languages -->
 <!-- https://tiny.one/readme-stats -->
 <!-- Please add an env variable called PAT_1 with your github token in vercel -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=EdsonJSF&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866) -->
 
-## Frameworks Frontend
+## ​Frontend Frameworks
 
 ![My Frameworks Front, angular](https://skillicons.dev/icons?i=angular,reactivex)
 ![false](https://skillicons.dev/icons?i=false)
@@ -24,7 +26,7 @@ edsonjsf1990@gmail.com
 ![false](https://skillicons.dev/icons?i=false)
 ![My Frameworks Front, vue](https://skillicons.dev/icons?i=vue,nuxtjs)
 
-## Frameworks Backend
+## Backend Frameworks
 
 ![My Frameworks Back, nodejs](https://skillicons.dev/icons?i=nodejs,express)
 ![false](https://skillicons.dev/icons?i=false)
@@ -32,7 +34,7 @@ edsonjsf1990@gmail.com
 ![false](https://skillicons.dev/icons?i=false)
 ![My Frameworks Back, laravel](https://skillicons.dev/icons?i=laravel)
 
-## Otras Herramientas
+## Tools
 
 ![My UX/UI](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui)
 ![false](https://skillicons.dev/icons?i=false)
