@@ -4,7 +4,7 @@ I am Edson Sánchez, a Full Stack Developer with an extensive track record. I've
 
 If you are interested in contacting me, I would be very happy to receive an email from you.
 
-Visit my portfolio: [edsonjsf.github.io​](https://edsonjsf.github.io){:target="_blank"}
+Visit my portfolio: <a href="https://edsonjsf.github.io" target="_blank">edsonjsf.github.io</a>
 
 ## Languages
 
